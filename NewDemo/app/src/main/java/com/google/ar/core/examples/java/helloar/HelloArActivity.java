@@ -85,8 +85,8 @@ import static hand_determination.Card.QUEEN;
 import static hand_determination.Card.SPADES;
 
 
-public class EuchreAugmenter extends AppCompatActivity implements GLSurfaceView.Renderer {
-  private static final String TAG = EuchreAugmenter.class.getSimpleName();
+public class HelloArActivity extends AppCompatActivity implements GLSurfaceView.Renderer {
+  private static final String TAG = HelloArActivity.class.getSimpleName();
 
   // Rendering. The Renderers are created here, and initialized when the GL surface is created.
   private GLSurfaceView surfaceView;
